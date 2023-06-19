@@ -1,0 +1,17 @@
+{
+  "name": "figma-plugin-optical-kerning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/figma": "^1.0.4",
+    "typescript": "^5.1.3"
+  }
+}
